@@ -3,7 +3,7 @@ import logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, WebAppInfo
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes, PicklePersistence
 
-BOT_TOKEN   = "8663679950:AAH_Tnx9mtotMohwyc_KP2OK4YTuQTIq7Qk"
+BOT_TOKEN   = "8663679950:AAEJt4VvfSpBVYGU-WQjJB7DzVvwippi-kk"
 ADMIN_ID    = 1470728379
 MINIAPP_URL = "https://kamaltdinovartem2007-max.github.io/tarot-miniapp/"
 

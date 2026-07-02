@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 
 BOT_TOKEN   = "8663679950:AAEJt4VvfSpBVYGU-WQjJB7DzVvwippi-kk"
 ADMIN_ID    = 1470728379
-MINIAPP_URL = "https://kamaltdinovartem2007-max.github.io/tarot-miniapp/"
+MINIAPP_URL = "https://oxi-h.github.io/tarot-miniapp/"
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 log = logging.getLogger(__name__)
